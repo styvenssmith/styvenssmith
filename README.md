@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Styvens Smith
 
-<!--
-**styvenssmith/styvenssmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ systems-focused software engineer and M.S. student in Computational Applied
+Mathematics at Stony Brook University.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Modern C++ and Linux systems programming
+- Performance measurement, profiling, and regression prevention
+- Concurrency, networking, and resource ownership
+- Numerical computing and performance-sensitive software
+
+## Featured Project
+
+- [Performance-Tested Concurrent Event Processing Engine](https://github.com/styvenssmith/event-processing-engine)
